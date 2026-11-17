@@ -19,6 +19,8 @@ I built it to strengthen my understanding of object-oriented programming. I want
 The code uses implicit usings and nullable reference types, so it requires .NET 6 or later. From the project folder, run:
 
 ```bash
+git clone https://github.com/qila-09/Bank-Heist-OOP-Game.git
+cd Bank-Heist-OOP-Game
 dotnet run
 ```
 
