@@ -9,7 +9,7 @@ I built it to strengthen my understanding of object-oriented programming. I want
 ## Project scale
 
 - **Language:** C#
-- **Framework:** .NET 6 or later
+- **Framework:** .NET 10 SKD or later
 - **Classes:** 28, including 3 abstract classes
 - **Source code:** Approximately 1,040 lines
 - **External libraries:** None; uses the .NET standard libraries.
